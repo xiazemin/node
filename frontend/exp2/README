@@ -1,0 +1,4 @@
+ <!--带图片的spin.js-->
+    <script src="js/spin-image.js" type="text/javascript"></script>
+    <!--带进度条spin.js-->
+    <script src="js/spin-progress.js" type="text/javascript"></script>

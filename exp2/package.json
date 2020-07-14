@@ -1,0 +1,22 @@
+{
+  "name": "xiazemin",
+  "version": "1.0.0",
+  "description": "1",
+  "main": "event.js",
+  "scripts": {
+    "test": "1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xiazemin/node.git"
+  },
+  "keywords": [
+    "xiazemin"
+  ],
+  "author": "xiazemin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xiazemin/node/issues"
+  },
+  "homepage": "https://github.com/xiazemin/node#readme"
+}
